@@ -1,0 +1,56 @@
+@media only screen and (max-width: 361px) {
+    .todo-input {
+        width: 100px;
+    }
+    select {
+        width: 100px;
+    }
+}
+
+@media only screen and (max-width: 575px) {
+    .todo-input {
+        width: 300px;
+    }
+    select {
+        width: 100px;
+    }
+}
+
+@media only screen and (max-width: 465px) {
+    .todo-input {
+        width: 250px;
+    }
+    select {
+        width: 100px;
+    }
+}
+
+@media only screen and (max-width: 425px) {
+    .todo-input {
+        width: 200px;
+    }
+    select {
+        width: 110px;
+    }
+}
+
+@media only screen and (max-width: 366px) {
+    .todo-input {
+        width: 140px;
+    }
+    select {
+        width: 110px;
+    }
+}
+
+@media only screen and (max-width: 281px) {
+    .todo-input {
+        width: 80px;
+    }
+    select {
+        width: 110px;
+    }
+    h1 {
+        font-size: 50px;
+    }
+}
