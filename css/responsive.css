@@ -54,3 +54,25 @@
         font-size: 50px;
     }
 }
+@media only screen and (max-width: 288px) {
+    .todo-input {
+        width: 80px;
+    }
+    select {
+        width: 110px;
+    }
+    h1 {
+        font-size: 50px;
+    }
+}
+@media only screen and (max-width: 302px) {
+    .todo-input {
+        width: 57px;
+    }
+    select {
+        width: 91px;
+    }
+    h1 {
+        font-size: 50px;
+    }
+}
